@@ -16,3 +16,6 @@ No Hooks:
 State management and side effects are implemented in a traditional, pre-hooks React style using parent component logic.
 Styling:
 The UI is kept minimal and intuitive, with clearly labeled buttons for each action and a display area for the timer value.
+
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/1d926f99-673d-413d-b4ec-68e36eb1c308" />
+
